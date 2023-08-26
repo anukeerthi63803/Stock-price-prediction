@@ -41,7 +41,7 @@ matplotlib
 scikit-learn
 keras
 Install the required dependencies using the provided 'requirements.txt' file:
-        pip install -r requirements.txt
+  pip install -r requirements.txt
 
 
 ## Project Structure
