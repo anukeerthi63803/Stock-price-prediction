@@ -6,7 +6,9 @@ This project demonstrates the use of a Long Short-Term Memory (LSTM) neural netw
 The project fetches historical stock price data using the `yfinance` library, preprocesses the data, trains an LSTM model, and visualizes the results.
 
 ## Table of Contents
-
+- [Introduction](#stock-price-prediction-using-lstm)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Project Structure](#project-structure)
@@ -16,10 +18,10 @@ The project fetches historical stock price data using the `yfinance` library, pr
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/anukeerthi63803/stock-price-prediction.git
-   cd stock-price-prediction
+   git clone https://github.com/anukeerthi63803/Stock-price-prediction.git
+   cd Stock-price-prediction
    
-1. Install the required dependencies using 'pip':
+   Install the required dependencies using 'pip':
      pip install -r requirements.txt
 
 ## Usage
