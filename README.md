@@ -11,7 +11,16 @@ The project fetches historical stock price data using the `yfinance` library, pr
 - [Requirements](#requirements)
 - [Project Structure](#project-structure)
 
-pip install -r requirements.txt
+## Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/anukeerthi63803/stock-price-prediction.git
+   cd stock-price-prediction
+   
+1. Install the required dependencies using 'pip':
+     pip install -r requirements.txt
 
 ## Usage
 
